@@ -1,0 +1,31 @@
+ID,Age Class,Passenger Class,Gender,No of Siblings or Spouses on Board,No of Parents or Children on Board,Survived
+1,Young Adulthood,Third,Male,0,0,No
+2,Young Adulthood,Second,Male,0,0,No
+3,Childhood,Third,Female,>=2,>=2,Yes
+4,Childhood,Third,Male,0,0,No
+5,Middle Adulthood,Second,Female,0,0,No
+6,Elder Citizen,First,Male,0,0,No
+7,Middle Adulthood,First,Female,1,0,Yes
+8,Childhood,Third,Male,1,1,No
+9,Young Adulthood,Third,Male,0,0,No
+10,Childhood,Second,Male,0,0,No
+11,Young Adulthood,Third,Male,0,0,No
+12,Young Adulthood,Second,Female,1,0,Yes
+13,Childhood,Third,Female,1,>=2,Yes
+14,Young Adulthood,First,Male,1,0,Yes
+15,Young Adulthood,Third,Male,>=2,0,No
+16,Elder Citizen,Third,Male,0,0,No
+17,Childhood,Third,Female,0,0,Yes
+18,Young Adulthood,Third,Male,1,>=2,No
+19,Young Adulthood,Third,Male,1,0,Yes
+20,Childhood,Second,Female,0,1,Yes
+21,Young Adulthood,Second,Female,0,0,No
+22,Young Adulthood,Second,Male,>=2,1,No
+23,Young Adulthood,Third,Male,0,0,No
+24,Elder Citizen,Third,Male,0,0,No
+25,Childhood,Third,Male,>=2,>=2,No
+26,Young Adulthood,First,Female,0,0,Yes
+27,Middle Adulthood,First,Female,0,0,Yes
+28,Young Adulthood,Third,Male,0,0,No
+29,Young Adulthood,First,Female,1,0,Yes
+30,Young Adulthood,Second,Female,1,0,Yes
