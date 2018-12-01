@@ -3,6 +3,7 @@ This repo covers coursework from BT2101 - Decision Making Methods and Tools - an
 
 ### Contents
 
+- Assignment 1: Dee Dive Analytics of a Telecommunication Firm's Customer Churn Data
 - Tutorial 1: Decision Trees & Pruning Algorithms
 - Tutorial 2: Logistic Regression
 - Tutorial 3: Ensemble Methods - Bagging, Boosting, Random Forest
